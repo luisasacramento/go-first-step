@@ -1,0 +1,15 @@
+05/12/2023 00:01:14 - https://www.alura.com.br - online: true
+05/12/2023 00:01:25 - https://www.caelum.com.br - online: true
+05/12/2023 00:01:26 - https://httpbin.org/status/404 - online: false
+05/12/2023 00:01:26 - https://httpbin.org/status/200 - online: true
+05/12/2023 00:01:26 - https://httpbin.org/status/404 - online: false
+05/12/2023 00:01:31 - https://www.alura.com.br - online: true
+05/12/2023 00:01:31 - https://www.caelum.com.br - online: true
+05/12/2023 00:01:31 - https://httpbin.org/status/404 - online: false
+05/12/2023 00:01:32 - https://httpbin.org/status/200 - online: true
+05/12/2023 00:01:32 - https://httpbin.org/status/404 - online: false
+05/12/2023 00:01:37 - https://www.alura.com.br - online: true
+05/12/2023 00:01:37 - https://www.caelum.com.br - online: true
+05/12/2023 00:01:37 - https://httpbin.org/status/404 - online: false
+05/12/2023 00:01:37 - https://httpbin.org/status/200 - online: true
+05/12/2023 00:01:37 - https://httpbin.org/status/404 - online: false
